@@ -30,7 +30,7 @@ const SecondaryInfo = () => {
           Treinta ofrece más que la comodidad de administrar
           y monitorear los estados financieros de tu empresa a través de un smartphone.
         </p>
-        <div className="flex justify-between w-full">
+        <div className="flex justify-between w-full max-w-screen-lg mx-auto">
           {data.map(item => (
             <div className="w-64 h-64 border-primary rounded-2xl px-2">
               <img className="mx-auto my-2" src={item.img} alt="" />

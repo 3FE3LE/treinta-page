@@ -48,3 +48,7 @@ body {
 div.border-primary:hover{
   border: var(--secondary) 2px solid;
 }
+
+svg.bg-primary:hover{
+  background-color: var(--secondary);
+}
