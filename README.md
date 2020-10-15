@@ -30,4 +30,10 @@ Como librería de CSS bajo el concepto de utilidades para dar estilo a la aplica
 ### Material-UI 
 Para el uso de componentes reactivos y adaptables al diseño de la pagina de manera practica
 
-### 
+### Google map react
+Para el uso y consumo de la API de Google Maps
+
+### Vercel
+Para el despliegue con el cual se hace CI del proyecto de manera automatizada
+
+## Resultado Visible [Treinta page](https://treinta.3fe3le.co)
