@@ -1,21 +1,33 @@
-![React Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/react.svg)
 
-# React Example
+# Treinta page
 
-This directory is a brief example of a [React](https://reactjs.org/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
+En la pagina se desarrollo de acuerdo a lo requerido en el documento PDF de la prueba es decir comprende 3 secciones en conjunto con 3 funcionalidades.
 
-## Deploy Your Own
+### Sección Inicial  
+En la parte superior derecha se mantendrá una pestaña con la cual deberá hacer click para visualizar el formulario de inicio de sesión de la misma manera esta la pestaña de registro el cual desplegara el formulario de registro, una barra de búsqueda (no funcional) para ambientar el fondo que es un mapa de Google en el cual están ubicado de manera aleatoria diferentes negocios con indicadores personalizados.
 
-Deploy your own React project, along with Serverless Functions, with Vercel.
+En la parte superior izquierda el logotipo de la empresa, y por ultimo en la parte superior un pestaña asomada sugiriendo al cliente si desea saber mas información respecto a treinta 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/create-react-app-functions)
+Funciones en esta sección: Iniciar Sesión, Registro, Mapa interactivo de Google
 
-_Live Example: https://create-react-app.now-examples.now.sh/_
+### Sección Secundaria
 
-### How We Created This Example
+En esta segunda sección podemos encontrar información mas a detalle de que es treinta con una pequeña muestra de su interfaz movil la cual se encuentra disponible en [Play Store](https://play.google.com/store/apps/details?id=com.treintaapp) 
 
-To get started with React, along with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction), with Vercel, you can use the [Create-React-App CLI](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app) to initialize the project:
+### Tercera sección
 
-```shell
-$ npx create-react-app my-app
-```
+Por ultimo tenemos las principales ventajas de usar y tener treinta en tu negocio 
+
+
+## Tecnologías usadas
+
+### React.js
+Como librería base para el desarrollo de la aplicación
+
+### Tailwind
+Como librería de CSS bajo el concepto de utilidades para dar estilo a la aplicación
+
+### Material-UI 
+Para el uso de componentes reactivos y adaptables al diseño de la pagina de manera practica
+
+### 
